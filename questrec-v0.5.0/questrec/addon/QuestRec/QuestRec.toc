@@ -1,0 +1,8 @@
+## Interface: 11509
+## Title: QuestRec
+## Notes: Reads character data and recommends quest and gear upgrades
+## Author: Sean
+## Version: 0.5.0
+## SavedVariablesPerCharacter: QuestRecDB
+
+Init.lua
